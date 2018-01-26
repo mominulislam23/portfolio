@@ -1244,3 +1244,23 @@
 	body.is-touch .poptrox-popup .closer {
 		opacity: 1.0 !important;
 	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container {
+  display: flex;
+}
+.container > div {
+  flex: 1; /*grow*/
+}
