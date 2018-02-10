@@ -11,6 +11,7 @@
 
 	body {
 		background: #fff;
+		
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -28,7 +29,7 @@
 
 	body, input, select, textarea {
 		color: #a2a2a2;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: 'Times New Roman';
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
@@ -137,7 +138,7 @@
 
 	code {
 		background: #f7f7f7;
-		border-radius: 0.35em;
+		border-radius: .35em;
 		border: solid 2px #efefef;
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
@@ -447,7 +448,7 @@
 /* Image */
 
 	.image {
-		border-radius: 0.35em;
+		border-radius: 0.55em;
 		border: 0;
 		display: inline-block;
 		position: relative;
@@ -798,7 +799,7 @@
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		background-color: transparent;
-		border-radius: 0.35em;
+		border-radius: 4em;
 		border: solid 3px #efefef;
 		color: #787878 !important;
 		cursor: pointer;
